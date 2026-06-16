@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Imperial+Script&display=swap');
 
 *{
     margin: 0;
@@ -13,7 +13,7 @@ body{
     background-color: rgba(241, 126, 126, 0.637);
     text-align: center;
     padding: 30px;
-    font-family: "Cookie", cursive;
+    font-family: "Imperial Script", cursive;
     font-size: 40px;
     
     
