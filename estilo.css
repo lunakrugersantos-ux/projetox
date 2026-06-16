@@ -1,3 +1,8 @@
 body{
     background-color: hotpink;
 }
+
+.cabecalho{
+    background-color: honeydew;
+    text-align: center;
+}
