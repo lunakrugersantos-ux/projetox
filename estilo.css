@@ -1,8 +1,9 @@
 body{
-    background-color: rgba(105, 255, 155, 0.349);
+    background-color: rgba(255, 105, 243, 0.349);
 }
 
 .cabecalho{
-    background-color: rgba(255, 20, 145, 0.637);
+    background-color: rgba(255, 212, 20, 0.63);
     text-align: center;
+    padding: 30px;
 }
