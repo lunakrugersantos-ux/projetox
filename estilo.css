@@ -1,18 +1,19 @@
-@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
+
 *{
     margin: 0;
     padding: 0;
 }
 body{
     background-color: rgba(243, 171, 215, 0.795);
-    font-family: "Merriweather", serif;
-
+    
 }
 
 .cabecalho{
     background-color: rgba(241, 126, 126, 0.637);
     text-align: center;
     padding: 30px;
+    font-family: "Cookie", cursive;
     
     
 }
