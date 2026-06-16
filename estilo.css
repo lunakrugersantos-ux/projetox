@@ -2,6 +2,7 @@
 
 body{
     background-color: rgba(243, 171, 215, 0.795);
+    font-family: "Merriweather", serif;
 
 }
 
@@ -9,6 +10,6 @@ body{
     background-color: rgba(241, 126, 126, 0.637);
     text-align: center;
     padding: 30px;
-    font-family: "Merriweather", serif;
+    
     
 }
