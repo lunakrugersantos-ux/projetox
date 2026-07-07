@@ -33,8 +33,8 @@ img{
  article{
 
 display: flex;
-background-color:khaki
-
+background-color:khaki;
+ }
 button{
 
 
@@ -47,4 +47,4 @@ button{
 }
 
 
- }
+ 
