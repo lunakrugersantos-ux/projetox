@@ -25,7 +25,7 @@ img{
 }
  main{
 
-    color: black
+    color: black;
     max-width: 800px;
     margin: 0 auto;
     padding: 16px;
@@ -40,9 +40,11 @@ button{
 
     background-color: bisque;
     color: darkkhaki;
-    padding: 34px
-    border: radius 20px;
+    padding: 34px;
+    border-radius: 20px;
     width: 100px;
+
 }
+
 
  }
