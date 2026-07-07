@@ -35,4 +35,13 @@ img{
 display: flex;
 background-color:khaki
 
+button{
+
+
+    background-color: bisque;
+    color: darkkhaki;
+    padding: 32px
+    border: radius 20px;
+}
+
  }
